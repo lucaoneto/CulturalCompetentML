@@ -1,0 +1,24 @@
+digraph "packages_CultureAwarenessTest" {
+rankdir=BT
+charset="utf-8"
+"CultureAwarenessTest" [color="black", label=<CultureAwarenessTest>, shape="box", style="solid"];
+"CultureAwarenessTest.LaunchFiles" [color="black", label=<CultureAwarenessTest.LaunchFiles>, shape="box", style="solid"];
+"CultureAwarenessTest.LaunchFiles.diffusion_step_plot" [color="black", label=<CultureAwarenessTest.LaunchFiles.diffusion_step_plot>, shape="box", style="solid"];
+"CultureAwarenessTest.LaunchFiles.plot_standard_augmentation" [color="black", label=<CultureAwarenessTest.LaunchFiles.plot_standard_augmentation>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated" [color="black", label=<CultureAwarenessTest.Mitigated>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated.general" [color="black", label=<CultureAwarenessTest.Mitigated.general>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated.launch" [color="black", label=<CultureAwarenessTest.Mitigated.launch>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated.launch2" [color="black", label=<CultureAwarenessTest.Mitigated.launch2>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated.launch3" [color="black", label=<CultureAwarenessTest.Mitigated.launch3>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated.launch4" [color="black", label=<CultureAwarenessTest.Mitigated.launch4>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated.launch5" [color="black", label=<CultureAwarenessTest.Mitigated.launch5>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated.launch_local" [color="black", label=<CultureAwarenessTest.Mitigated.launch_local>, shape="box", style="solid"];
+"CultureAwarenessTest.Mitigated.launch_shallow" [color="black", label=<CultureAwarenessTest.Mitigated.launch_shallow>, shape="box", style="solid"];
+"CultureAwarenessTest.Model" [color="black", label=<CultureAwarenessTest.Model>, shape="box", style="solid"];
+"CultureAwarenessTest.Model.GeneralModel" [color="black", label=<CultureAwarenessTest.Model.GeneralModel>, shape="box", style="solid"];
+"CultureAwarenessTest.Processing" [color="black", label=<CultureAwarenessTest.Processing>, shape="box", style="solid"];
+"CultureAwarenessTest.Processing.processing" [color="black", label=<CultureAwarenessTest.Processing.processing>, shape="box", style="solid"];
+"CultureAwarenessTest.Utils" [color="black", label=<CultureAwarenessTest.Utils>, shape="box", style="solid"];
+"CultureAwarenessTest.general_file" [color="black", label=<CultureAwarenessTest.general_file>, shape="box", style="solid"];
+"CultureAwarenessTest.grid" [color="black", label=<CultureAwarenessTest.grid>, shape="box", style="solid"];
+}
